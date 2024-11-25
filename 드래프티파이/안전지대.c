@@ -62,6 +62,8 @@ int main() {
 1 -1
 1 -2
 2 -2
+
+/// 출력값
 danger : 0
 danger : 0
 danger : 0
