@@ -52,3 +52,19 @@ int main() {
 
   return 0;
 }
+
+/*
+/// 테스트 케이스
+2 4 3
+-2 2
+1 1
+1 0
+1 -1
+1 -2
+2 -2
+danger : 0
+danger : 0
+danger : 0
+danger : 1
+1 
+*/
